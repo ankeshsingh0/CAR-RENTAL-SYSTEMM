@@ -37,3 +37,26 @@ CS342-Car-Rental/
 │       └── Main.java      # Main entry point of the application
 ├── .gitignore             # Git ignore rules
 ├── pom.xml                # Maven project configuration
+
+
+
+
+
+Technologies Used
+
+Java (Swing): For creating the graphical user interface.
+PostgreSQL: AWS-hosted relational database for storing application data.
+Maven: For managing project dependencies and building the application.
+iText: For generating PDF invoices.
+FlatLaf: Modern UI design for enhancing the application's appearance.
+
+
+![Screenshot 2024-12-29 193813](https://github.com/user-attachments/assets/41c53f8a-84e8-4f65-aa23-07c714d1e61c)
+
+![Screenshot 2024-12-29 193857](https://github.com/user-attachments/assets/ca3532fc-d814-49df-b678-591feb9c1b6c)
+
+
+
+
+
+
